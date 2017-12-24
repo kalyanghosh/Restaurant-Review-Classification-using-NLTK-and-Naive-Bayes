@@ -12,6 +12,7 @@ Steps :
 creation of corpus of words and for stemming the words.
 
 4. The code is written in a very modular format leaving scope for scalabilty in future.
+
    4.1 class Restaurant_Reviews : This class is the basic template of the project
    
    4.2 def __init__(self,dataset) : constructor
@@ -30,9 +31,14 @@ creation of corpus of words and for stemming the words.
 
 
 5. 
-  ******Model Statistics ******
-  Accuracy of Model =  0.73
-  Precison of Model =  0.567010309278
-  Recall of Model   =  0.820895522388
-  F1score of Model  =  0.670731707317
-  ****************************
+       ******Model Statistics ******
+       
+       Accuracy of Model =  0.73
+       
+       Precison of Model =  0.567010309278
+       
+       Recall of Model   =  0.820895522388
+       
+       F1score of Model  =  0.670731707317
+       
+        ****************************
